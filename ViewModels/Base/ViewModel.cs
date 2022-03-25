@@ -39,5 +39,5 @@ namespace CV19.ViewModels.Base
             // Освобождение управляемых ресурсов
         }
     }
-    }
+    
 }
